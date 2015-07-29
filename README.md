@@ -1,4 +1,4 @@
-Ettery theme v1.0
+[Grub2] Ettery theme
 ===========
 
 ![Ettery preview](EtteryPreview.png?raw=true "Preview of theme")
@@ -76,4 +76,6 @@ Known issues and bugs
 Please report if you find more bugs.
 
 ---------------------------
+Current version: 1.0
+
 2015
