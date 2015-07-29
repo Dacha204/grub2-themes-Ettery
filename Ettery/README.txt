@@ -13,7 +13,7 @@ Grub2 theme based on:
     - Vimix by vinceliuice
 
 Designed primary for 1920x1080 (wide 16:9) resolution 
-but should work for common resolution aswell (between 800x600 and 1600x1200).
+but should work for common resolution as well (between 800x600 and 1600x1200).
 Background image found on imgur.com
 
 
@@ -48,7 +48,7 @@ Just follow the instructions.
 [Manual install]
     - copy entire Ettery folder in /boot/grub/themes/ (/boot/grub2/themes/, /grub/themes/)
         sudo cp -r Ettery /boot/grub/themes/
-    - open /etc/default/grub with text editor with root
+    - open /etc/default/grub in text editor with root
         sudo gedit /etc/default/grub
         
     - add/change folowing lines:
@@ -67,7 +67,6 @@ Just follow the instructions.
         sudo gedit /etc/default/grub
     - remove/comment line (add # at beginning)
         GRUB_THEME="/boot/grub/themes/Ettery/theme.txt" to #GRUB_THEME="/boot/grub/themes/Ettery/theme.txt"
-    -(optional) comment GRUB_GFXMODE line or leave it to run grub in desired resolution.
     - save file
     - update grub
         sudo update-grub (or sudo update-grub2, or sudo grub2-mkconfig -0 /boot/grub/grub.cfg)
