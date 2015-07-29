@@ -1,7 +1,7 @@
 Ettery theme v1.0
 ===========
 
-![Ettery preview](EtteryPreview.png?raw=true "Preview of theme.")
+![Ettery preview](EtteryPreview.png?raw=true "Preview of theme")
 
 Ettery is Grub2 theme. This theme is based on
 	
