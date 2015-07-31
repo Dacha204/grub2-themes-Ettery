@@ -71,7 +71,7 @@ Known issues and bugs
 ----------------------------
 >**[Version 1.0]**
 >
->- Text align issue. Text moves when switching between selections.
+>- [FIXED] Text align issue. Text moves when switching between selections.
 
 Please report if you find more bugs.
 
