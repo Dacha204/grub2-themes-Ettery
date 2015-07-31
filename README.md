@@ -76,6 +76,6 @@ Known issues and bugs
 Please report if you find more bugs.
 
 ---------------------------
-Current version: 1.0
+Current version: 1.1
 
 2015
