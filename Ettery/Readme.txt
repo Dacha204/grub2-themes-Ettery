@@ -43,7 +43,7 @@ original ZorinOS theme and Manual.
 For Version 1.0 I do not recommend using script because it's not tested. I recommend manual install.
 Just follow the instructions.
 
-[Automatic - scripted] - NOT RECOMMENDED FOR VERSION 1.0 - NOT TESTED
+[Automatic - scripted] - NOT RECOMMENDED FOR VERSION 1.0 and 1.1 - NOT TESTED
     - just run install.sh with root and follow instructions
     
 [Manual install]
