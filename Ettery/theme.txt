@@ -26,7 +26,7 @@
 
 + boot_menu {
 		left = 5%
-		width = 60%
+		width = 55%
 		top = 20%
 		height = 60%
 		
