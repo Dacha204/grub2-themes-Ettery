@@ -23,7 +23,7 @@ Quick install guide
 #### Preparation
 Find out supported resolution by your grub. 
 
- * Reboot
+ * Reboot to grub
  * Open command line by pressing "C"
  * Enter `vbeinfo`
  * Check for maximum supported resolution. (eg. 1920x1080)
