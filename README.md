@@ -28,7 +28,7 @@ Find out supported resolution by your grub.
  * Enter `vbeinfo`
  * Check for maximum supported resolution. (eg. 1920x1080)
 
-####Installation
+#### Installation
 
  - Copy entire **Ettery** folder to **/boot/grub/themes/**
 		`sudo cp -r Ettery /boot/grub/themes/`
@@ -53,13 +53,13 @@ Find out supported resolution by your grub.
     > Depending of your distribution, you might use **update-grub2** or **grub2-mkconfig -o /boot/grub/grub.cfg** , but usualy all 3 commands are the same.
 
 
-####Disabling theme
+#### Disabling theme
 Just remove/comment (put # at beginning) following line in **/etc/default/grub** file:
 
     GRUB_THEME="/boot/grub/themes/Ettery/theme.txt"
 Update grub to take effect:  `sudo update-grub`
 
-####Uninstalling theme
+#### Uninstalling theme
 Disable theme and delete **Ettery** folder from **/boot/grub/themes**
 		
 
