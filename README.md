@@ -2,6 +2,7 @@
 ===========
 
 ![Ettery preview](EtteryPreview.png?raw=true "Preview of theme")
+[![AUR package](https://repology.org/badge/version-for-repo/aur/grub2-theme-ettery.svg)](https://aur.archlinux.org/packages/grub2-theme-ettery/)
 
 Ettery is Grub2 theme. This theme is based on
 	
@@ -19,6 +20,9 @@ Quick install guide
 
 > **Note:**
 > There is ***install.sh*** script from original ZorinOS theme that automates install process, but it is not tested with this theme, therefore I recommend manual installation.
+
+> **Note:**
+> If you use arch linux or a arch based distribution you can also install this theme from the [aur](https://aur.archlinux.org/packages/grub2-theme-ettery/).
 
 #### Preparation
 Find out supported resolution by your grub. 
