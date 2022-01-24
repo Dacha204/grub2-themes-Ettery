@@ -22,7 +22,9 @@ Quick install guide
 > There is ***install.sh*** script from original ZorinOS theme that automates install process, but it is not tested with this theme, therefore I recommend manual installation.
 
 > **Note:**
-> If you use arch linux or a arch based distribution you can also install this theme from the [aur](https://aur.archlinux.org/packages/grub2-theme-ettery/).
+> If you use Arch Linux or a Arch based distribution you can also install this theme from the [AUR](https://aur.archlinux.org/packages/grub2-theme-ettery/).
+>
+> **Note**: AUR package is created and maintained by @Lukas1818.
 
 #### Preparation
 Find out supported resolution by your grub. 
