@@ -24,7 +24,7 @@ Quick install guide
 > **Note:**
 > If you use Arch Linux or a Arch based distribution you can also install this theme from the [AUR](https://aur.archlinux.org/packages/grub2-theme-ettery/).
 >
-> **Note**: AUR package is created and maintained by @Lukas1818.
+>  AUR package is created and maintained by @Lukas1818.
 
 #### Preparation
 Find out supported resolution by your grub. 
